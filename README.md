@@ -2,7 +2,7 @@
 
 I am a PhD student at the Australian Centre for Field Research (ACFR), University of Sydney. 
 
-:mag_right: PhD research fields I'm passionate about:
+:mag_right: Research topics I'm passionate about:
 
 - 3d object detection (temporal and single-frame)
 - Multi-target unsupervised domain adaptation
