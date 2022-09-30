@@ -5,7 +5,7 @@ I am a PhD student at the Australian Centre for Field Research (ACFR), Universit
 :mag_right: Research topics I'm passionate about:
 
 - 3d object detection (temporal and single-frame)
-- Multi-target unsupervised domain adaptation
+- Unsupervised domain adaptation
 - Camera-lidar sensor fusion 
 
 ## Publications :book:
