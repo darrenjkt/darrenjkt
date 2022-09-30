@@ -12,6 +12,7 @@ I am a PhD student at the Australian Centre for Field Research (ACFR), Universit
 
 - (ITSC 2021) Optimising the selection of samples for robust lidar camera calibration [[paper](https://arxiv.org/abs/2103.12287)][[code](https://github.com/acfr/cam_lidar_calibration)]
 - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation [[paper](https://arxiv.org/abs/2111.09450)][[code](https://github.com/darrenjkt/SEE-MTDA)]
+- Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2209.06407)][[code](https://github.com/darrenjkt/SEE-VCN)]
 
 <!--
 **darrenjkt/darrenjkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
