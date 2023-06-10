@@ -4,9 +4,8 @@ I am a PhD student at the Australian Centre for Field Research (ACFR), Universit
 
 :mag_right: Research topics I'm passionate about:
 
-- Unsupervised domain adaptation
-- Semi-supervised learning
 - 3D Perception (i.e. 3d object detection, tracking, segmentation)
+- Domain Adaptation (self/unsupervised, semi-supervised)
 - 3D Shape completion
 - Camera-lidar sensor fusion 
 
