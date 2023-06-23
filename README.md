@@ -1,11 +1,11 @@
 # Hey, I'm Darren :wave:
 
-I am a PhD student at the Australian Centre for Field Research (ACFR), University of Sydney. 
+I am a PhD candidate at the Australian Centre for Research (ACFR), University of Sydney. 
 
 :mag_right: Research topics I'm passionate about:
 
 - 3D Perception (i.e. 3d object detection, tracking, segmentation)
-- Domain Adaptation (self/unsupervised, semi-supervised)
+- Domain Adaptation (unsupervised, active learning, semi-supervised)
 - 3D Shape completion
 - Camera-lidar sensor fusion 
 
