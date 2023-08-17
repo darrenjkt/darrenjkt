@@ -2,14 +2,10 @@
 
 I am a PhD candidate at the Australian Centre for Research (ACFR), University of Sydney. 
 
-:mag_right: Research topics I'm passionate about:
-
-- 3D Perception (i.e. 3d object detection, tracking, segmentation)
-- Domain Adaptation (unsupervised, active learning, semi-supervised)
-- 3D Shape completion
-- Camera-lidar sensor fusion 
+I work in the fields of deep learning and computer vision with a focus on 3D Perception and unsupervised domain adaptation. My research aims to allow 3D detectors to generalize across a variety of lidar types and environments without human-annotated labels.
 
 ## Publications :book:
+- MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaption in 3D Object Detection [[paper](https://arxiv.org/abs/2308.05988)][[code](https://github.com/darrenjkt/MS3D)]
 - MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2304.02431)][[code](https://github.com/darrenjkt/MS3D)]
 - (ICRA 2023) Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2209.06407)][[code](https://github.com/darrenjkt/SEE-VCN)]
 - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation [[paper](https://arxiv.org/abs/2111.09450)][[code](https://github.com/darrenjkt/SEE-MTDA)]
