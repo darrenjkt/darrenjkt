@@ -1,8 +1,8 @@
 # Hey, I'm Darren :wave:
 
-I am a PhD candidate at the Australian Centre for Research (ACFR), University of Sydney. 
+I am a machine learning engineer with a PhD from the University of Sydney, Australia. 
 
-I work in the fields of deep learning and computer vision with a focus on 3D Perception and unsupervised domain adaptation. My research aims to allow 3D detectors to generalize across a variety of lidar types and environments without human-annotated labels.
+I work in the fields of deep learning and computer vision. My PhD a focused on 3D Perception and unsupervised domain adaptation to allow 3D detectors to generalize across a variety of lidar types and environments without human-annotated labels for each new domain.
 
 ## Publications :book:
 - MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaption in 3D Object Detection [[paper](https://arxiv.org/abs/2308.05988)][[code](https://github.com/darrenjkt/MS3D)]
