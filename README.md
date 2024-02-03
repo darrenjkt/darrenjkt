@@ -1,12 +1,12 @@
 # Hey, I'm Darren :wave:
 
-I am a machine learning engineer with a PhD from the University of Sydney, Australia. 
+I am a computer vision and robotics engineer currently working on making boats autonomous on Australian waters through marine vessel and mammal detection :ship: :whale: :ocean:
 
-I work in the fields of deep learning and computer vision. My PhD a focused on 3D Perception and unsupervised domain adaptation to allow 3D detectors to generalize across a variety of lidar types and environments without human-annotated labels for each new domain.
+My PhD focused on 3D perception in autonomous vehicles with a focus on unsupervised domain adaptation to allow detectors to generalize across a variety of lidar types and environments without needing human-annotated labels for each new domain.
 
 ## Publications :book:
 - MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaption in 3D Object Detection [[paper](https://arxiv.org/abs/2308.05988)][[code](https://github.com/darrenjkt/MS3D)]
-- MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2304.02431)][[code](https://github.com/darrenjkt/MS3D)]
+- (ITSC 2023) MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2304.02431)][[code](https://github.com/darrenjkt/MS3D)]
 - (ICRA 2023) Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection [[paper](https://arxiv.org/abs/2209.06407)][[code](https://github.com/darrenjkt/SEE-VCN)]
 - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation [[paper](https://arxiv.org/abs/2111.09450)][[code](https://github.com/darrenjkt/SEE-MTDA)]
 - (ITSC 2021) Optimising the selection of samples for robust lidar camera calibration [[paper](https://arxiv.org/abs/2103.12287)][[code](https://github.com/acfr/cam_lidar_calibration)]
