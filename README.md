@@ -1,6 +1,6 @@
 # Hey, I'm Darren :wave:
 
-I am a robotics and machine learning engineer with a unique blend of research innovation and industry expertise, bringing high-impact, strategic solutions from concept to successful deployment. I am currently a senior engineer at Greenroom Robotics working on making boats autonomous on Australian waters through marine vessel and mammal detection.
+I am a machine learning engineer with a unique blend of research innovation and industry expertise, bringing high-impact, strategic solutions from concept to successful deployment.
 
 ## Publications :book:
 - (T-IV 2024) MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaption in 3D Object Detection [[paper](https://arxiv.org/abs/2308.05988)][[code](https://github.com/darrenjkt/MS3D)]
